@@ -1,0 +1,35 @@
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 883, in emit
+    self.flush()
+  File "/usr/lib/python2.7/logging/__init__.py", line 843, in flush
+    self.stream.flush()
+IOError: [Errno 9] Bad file descriptor
+Logged from file pydaemon.py, line 49
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 883, in emit
+    self.flush()
+  File "/usr/lib/python2.7/logging/__init__.py", line 843, in flush
+    self.stream.flush()
+IOError: [Errno 32] Broken pipe
+Logged from file web.py, line 1908
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 883, in emit
+    self.flush()
+  File "/usr/lib/python2.7/logging/__init__.py", line 843, in flush
+    self.stream.flush()
+IOError: [Errno 32] Broken pipe
+Logged from file web.py, line 1908
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 883, in emit
+    self.flush()
+  File "/usr/lib/python2.7/logging/__init__.py", line 843, in flush
+    self.stream.flush()
+IOError: [Errno 32] Broken pipe
+Logged from file web.py, line 1908
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/logging/__init__.py", line 883, in emit
+    self.flush()
+  File "/usr/lib/python2.7/logging/__init__.py", line 843, in flush
+    self.stream.flush()
+IOError: [Errno 32] Broken pipe
+Logged from file web.py, line 1908
